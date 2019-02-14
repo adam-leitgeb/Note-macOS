@@ -1,4 +1,4 @@
-# Clips
+# Note
 
 Simple macOS utility for writing quick notes right from the menu bar.
 
